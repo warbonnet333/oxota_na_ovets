@@ -1,26 +1,56 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React, { Component } from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Header from "./components/Header/Header";
+import Body from "./components/Body/Body";
+import UpButton from "./components/UpButton/UpButton";
+import { CSSTransition } from "react-transition-group";
+import popTransition from "./transitions/pop.module.css";
 
-function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
+class App extends Component {
+  state = {
+    isUpButton: false,
+  };
+
+  componentDidMount() {
+    const options = {
+      rootMargin: "200px",
+    };
+
+    const onEntry = (entries, observer) => {
+      const isUpButton = entries[0].isIntersecting;
+      this.setState({ isUpButton });
+    };
+
+    const elem = document.querySelector("#header");
+    const observer = new IntersectionObserver(onEntry, options);
+
+    observer.observe(elem);
+  }
+
+  toTop = () => {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+  };
+
+  render() {
+    const { isUpButton } = this.state;
+    return (
+      <div>
+        <Header />
+        <Body />
+
+        <CSSTransition
+          in={!isUpButton}
+          timeout={250}
+          classNames={popTransition}
+          unmountOnExit
         >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+          <UpButton onTop={this.toTop} />
+        </CSSTransition>
+      </div>
+    );
+  }
 }
 
 export default App;

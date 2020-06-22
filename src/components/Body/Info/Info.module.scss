@@ -1,0 +1,52 @@
+@import "../../../style.const.scss";
+
+.logo_wrapper {
+  width: 100vw;
+  text-align: center;
+  padding: 5px 0 15px;
+}
+
+.title {
+  // font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  //   "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+  //   "Segoe UI Symbol";
+  color: #212529;
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 25px;
+}
+
+.info_det {
+  height: 135px;
+  display: flex;
+  flex-flow: column;
+  justify-content: space-between;
+  font-size: 14px;
+  border-bottom: 1px solid #c4c4c4;
+
+  &_part {
+    padding: 5px 0;
+  }
+
+  .map_link {
+    width: 95px;
+    height: 20px;
+    margin: 0 auto;
+
+    background: url(../../../images/location-512.png) 0 50% no-repeat
+      transparent;
+    background-image: url(../../../images/location-512.png);
+    background-position-x: 0px;
+    background-position-y: 50%;
+    background-size: contain;
+    background-attachment: initial;
+    background-origin: initial;
+    background-clip: initial;
+    background-color: transparent;
+  }
+
+  a {
+    text-decoration: none;
+    color: $green-color;
+  }
+}
