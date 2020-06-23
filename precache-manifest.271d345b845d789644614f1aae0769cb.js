@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "734714d90bd61a6418a77c4a72ed7eca",
+    "revision": "ef64fff7390b8f53d4bf14659d57039c",
     "url": "/oxota_na_ovets/index.html"
   },
   {
-    "revision": "8c829bf7070bc69cfbdb",
-    "url": "/oxota_na_ovets/static/css/main.2d47825f.chunk.css"
+    "revision": "72654f05cd2e284245da",
+    "url": "/oxota_na_ovets/static/css/main.e5c2b017.chunk.css"
   },
   {
-    "revision": "99c7753a843bfa5836ee",
-    "url": "/oxota_na_ovets/static/js/2.8accae5c.chunk.js"
+    "revision": "69fda06990e4acb37a7a",
+    "url": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/oxota_na_ovets/static/js/2.8accae5c.chunk.js.LICENSE.txt"
+    "url": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8c829bf7070bc69cfbdb",
-    "url": "/oxota_na_ovets/static/js/main.cb6c301f.chunk.js"
+    "revision": "72654f05cd2e284245da",
+    "url": "/oxota_na_ovets/static/js/main.03ca4a42.chunk.js"
   },
   {
     "revision": "fad6983df4614e531533",
@@ -30,9 +30,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0d260e0d5c0afe613ad2b0253f694917",
     "url": "/oxota_na_ovets/static/media/iconfinder_arrow-circle-up_1608521.0d260e0d.svg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/oxota_na_ovets/static/media/logo.5d5d9eef.svg"
   }
 ]);

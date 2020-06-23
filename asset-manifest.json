@@ -1,25 +1,24 @@
 {
   "files": {
-    "main.css": "/oxota_na_ovets/static/css/main.2d47825f.chunk.css",
-    "main.js": "/oxota_na_ovets/static/js/main.cb6c301f.chunk.js",
-    "main.js.map": "/oxota_na_ovets/static/js/main.cb6c301f.chunk.js.map",
+    "main.css": "/oxota_na_ovets/static/css/main.e5c2b017.chunk.css",
+    "main.js": "/oxota_na_ovets/static/js/main.03ca4a42.chunk.js",
+    "main.js.map": "/oxota_na_ovets/static/js/main.03ca4a42.chunk.js.map",
     "runtime-main.js": "/oxota_na_ovets/static/js/runtime-main.0d89ca5a.js",
     "runtime-main.js.map": "/oxota_na_ovets/static/js/runtime-main.0d89ca5a.js.map",
-    "static/js/2.8accae5c.chunk.js": "/oxota_na_ovets/static/js/2.8accae5c.chunk.js",
-    "static/js/2.8accae5c.chunk.js.map": "/oxota_na_ovets/static/js/2.8accae5c.chunk.js.map",
+    "static/js/2.ba99eb43.chunk.js": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js",
+    "static/js/2.ba99eb43.chunk.js.map": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js.map",
     "index.html": "/oxota_na_ovets/index.html",
-    "precache-manifest.8476d293652a1c24e27e0872775a48bb.js": "/oxota_na_ovets/precache-manifest.8476d293652a1c24e27e0872775a48bb.js",
+    "precache-manifest.271d345b845d789644614f1aae0769cb.js": "/oxota_na_ovets/precache-manifest.271d345b845d789644614f1aae0769cb.js",
     "service-worker.js": "/oxota_na_ovets/service-worker.js",
-    "static/css/main.2d47825f.chunk.css.map": "/oxota_na_ovets/static/css/main.2d47825f.chunk.css.map",
-    "static/js/2.8accae5c.chunk.js.LICENSE.txt": "/oxota_na_ovets/static/js/2.8accae5c.chunk.js.LICENSE.txt",
+    "static/css/main.e5c2b017.chunk.css.map": "/oxota_na_ovets/static/css/main.e5c2b017.chunk.css.map",
+    "static/js/2.ba99eb43.chunk.js.LICENSE.txt": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js.LICENSE.txt",
     "static/media/collage.jpg": "/oxota_na_ovets/static/media/collage.90676870.jpg",
-    "static/media/iconfinder_arrow-circle-up_1608521.svg": "/oxota_na_ovets/static/media/iconfinder_arrow-circle-up_1608521.0d260e0d.svg",
-    "static/media/logo.svg": "/oxota_na_ovets/static/media/logo.5d5d9eef.svg"
+    "static/media/iconfinder_arrow-circle-up_1608521.svg": "/oxota_na_ovets/static/media/iconfinder_arrow-circle-up_1608521.0d260e0d.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d89ca5a.js",
-    "static/js/2.8accae5c.chunk.js",
-    "static/css/main.2d47825f.chunk.css",
-    "static/js/main.cb6c301f.chunk.js"
+    "static/js/2.ba99eb43.chunk.js",
+    "static/css/main.e5c2b017.chunk.css",
+    "static/js/main.03ca4a42.chunk.js"
   ]
 }
