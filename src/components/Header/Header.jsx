@@ -6,7 +6,7 @@ class Header extends Component {
   render() {
     return (
       <div className={style.header} id="header">
-        <a className={style.header_logo_link} href="https://borysov.com.ua/uk">
+        <a href="https://borysov.com.ua/uk">
           <img className={style.header_logo_img} src={logo} alt="logo" />
         </a>
       </div>

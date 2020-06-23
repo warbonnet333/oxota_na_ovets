@@ -1,13 +1,17 @@
 .header {
   width: 100%;
   height: 54px;
-  // margin: 0 auto;
+  overflow: hidden;
+  position: fixed;
+  top: 0;
   text-align: center;
-  padding: 15px 0;
+  padding: 0;
   box-shadow: 5px 0 7px 4px rgba(0, 0, 0, 0.1);
+  background-color: white;
+  z-index: 111;
 
   &_logo_img {
     width: 50%;
-    padding: 5px 0;
+    padding: 22px 0;
   }
 }

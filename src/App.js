@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import logo from "./logo.svg";
 import "./App.css";
 import Header from "./components/Header/Header";
 import Body from "./components/Body/Body";
@@ -22,7 +21,7 @@ class App extends Component {
       this.setState({ isUpButton });
     };
 
-    const elem = document.querySelector("#header");
+    const elem = document.querySelector("#big_logo");
     const observer = new IntersectionObserver(onEntry, options);
 
     observer.observe(elem);

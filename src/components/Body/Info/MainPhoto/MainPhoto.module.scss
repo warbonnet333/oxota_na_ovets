@@ -4,9 +4,30 @@
   background-image: url("https://borysov.com.ua/sites/default/files/restaurant/oxota_bg.jpg");
   height: 346px;
   width: 100vw;
-  background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
   border-top: 5px solid $primary-color;
 }
+
+@media all and (min-width: 1024px) {
+  .parallax {
+    background-image: url("https://borysov.com.ua/sites/default/files/restaurant/oxota_bg.jpg");
+    height: 346px;
+    width: 100vw;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+}
+
+// .parallax {
+//   background-image: url("https://borysov.com.ua/sites/default/files/restaurant/oxota_bg.jpg");
+//   height: 346px;
+//   width: 100vw;
+//   background-attachment: fixed;
+// background-position: center;
+// background-repeat: no-repeat;
+// background-size: cover;
+// }

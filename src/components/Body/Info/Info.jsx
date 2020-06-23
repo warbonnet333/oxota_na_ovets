@@ -7,7 +7,7 @@ class Info extends Component {
   render() {
     return (
       <>
-        <div className={style.logo_wrapper}>
+        <div className={style.logo_wrapper} id="big_logo">
           <img src={BigLogo} alt="BigLogo" />
         </div>
         <div className={style.title}>АЗІАТСЬКИЙ СТЕЙК-ХАУС</div>
