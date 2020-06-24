@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09d51195e7e59b816f1100e1d6819a77",
+    "revision": "cf5f389094874ee6e9bfa26d38efdfa7",
     "url": "/oxota_na_ovets/index.html"
   },
   {
-    "revision": "5332642a776cdb9556d5",
-    "url": "/oxota_na_ovets/static/css/main.c1669975.chunk.css"
+    "revision": "7bbf53e5c0f05a331c36",
+    "url": "/oxota_na_ovets/static/css/main.3b5f05df.chunk.css"
   },
   {
     "revision": "b958dd5e520aec445342",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5332642a776cdb9556d5",
+    "revision": "7bbf53e5c0f05a331c36",
     "url": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js"
   },
   {

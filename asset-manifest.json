@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/oxota_na_ovets/static/css/main.c1669975.chunk.css",
+    "main.css": "/oxota_na_ovets/static/css/main.3b5f05df.chunk.css",
     "main.js": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js",
     "main.js.map": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js.map",
     "runtime-main.js": "/oxota_na_ovets/static/js/runtime-main.0d89ca5a.js",
@@ -8,9 +8,9 @@
     "static/js/2.a96fc0a2.chunk.js": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js",
     "static/js/2.a96fc0a2.chunk.js.map": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.map",
     "index.html": "/oxota_na_ovets/index.html",
-    "precache-manifest.93e2318e141660674c1c74caa2ef2c52.js": "/oxota_na_ovets/precache-manifest.93e2318e141660674c1c74caa2ef2c52.js",
+    "precache-manifest.31762d755d693c60d8da1efc9a1efb4b.js": "/oxota_na_ovets/precache-manifest.31762d755d693c60d8da1efc9a1efb4b.js",
     "service-worker.js": "/oxota_na_ovets/service-worker.js",
-    "static/css/main.c1669975.chunk.css.map": "/oxota_na_ovets/static/css/main.c1669975.chunk.css.map",
+    "static/css/main.3b5f05df.chunk.css.map": "/oxota_na_ovets/static/css/main.3b5f05df.chunk.css.map",
     "static/js/2.a96fc0a2.chunk.js.LICENSE.txt": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.LICENSE.txt",
     "static/media/collage.jpg": "/oxota_na_ovets/static/media/collage.90676870.jpg",
     "static/media/iconfinder-icon.svg": "/oxota_na_ovets/static/media/iconfinder-icon.74991e5f.svg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.0d89ca5a.js",
     "static/js/2.a96fc0a2.chunk.js",
-    "static/css/main.c1669975.chunk.css",
+    "static/css/main.3b5f05df.chunk.css",
     "static/js/main.025bdd35.chunk.js"
   ]
 }
