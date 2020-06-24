@@ -18,12 +18,12 @@
 }
 
 .info_det {
-  height: 135px;
   display: flex;
   flex-flow: column;
   justify-content: space-between;
   font-size: 14px;
   border-bottom: 1px solid #c4c4c4;
+  padding: 15px 0;
 
   &_part {
     padding: 5px 0;
