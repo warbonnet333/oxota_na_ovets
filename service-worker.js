@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/oxota_na_ovets/precache-manifest.271d345b845d789644614f1aae0769cb.js"
+  "/oxota_na_ovets/precache-manifest.93e2318e141660674c1c74caa2ef2c52.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,24 +1,30 @@
 {
   "files": {
-    "main.css": "/oxota_na_ovets/static/css/main.e5c2b017.chunk.css",
-    "main.js": "/oxota_na_ovets/static/js/main.03ca4a42.chunk.js",
-    "main.js.map": "/oxota_na_ovets/static/js/main.03ca4a42.chunk.js.map",
+    "main.css": "/oxota_na_ovets/static/css/main.c1669975.chunk.css",
+    "main.js": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js",
+    "main.js.map": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js.map",
     "runtime-main.js": "/oxota_na_ovets/static/js/runtime-main.0d89ca5a.js",
     "runtime-main.js.map": "/oxota_na_ovets/static/js/runtime-main.0d89ca5a.js.map",
-    "static/js/2.ba99eb43.chunk.js": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js",
-    "static/js/2.ba99eb43.chunk.js.map": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js.map",
+    "static/js/2.a96fc0a2.chunk.js": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js",
+    "static/js/2.a96fc0a2.chunk.js.map": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.map",
     "index.html": "/oxota_na_ovets/index.html",
-    "precache-manifest.271d345b845d789644614f1aae0769cb.js": "/oxota_na_ovets/precache-manifest.271d345b845d789644614f1aae0769cb.js",
+    "precache-manifest.93e2318e141660674c1c74caa2ef2c52.js": "/oxota_na_ovets/precache-manifest.93e2318e141660674c1c74caa2ef2c52.js",
     "service-worker.js": "/oxota_na_ovets/service-worker.js",
-    "static/css/main.e5c2b017.chunk.css.map": "/oxota_na_ovets/static/css/main.e5c2b017.chunk.css.map",
-    "static/js/2.ba99eb43.chunk.js.LICENSE.txt": "/oxota_na_ovets/static/js/2.ba99eb43.chunk.js.LICENSE.txt",
+    "static/css/main.c1669975.chunk.css.map": "/oxota_na_ovets/static/css/main.c1669975.chunk.css.map",
+    "static/js/2.a96fc0a2.chunk.js.LICENSE.txt": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.LICENSE.txt",
     "static/media/collage.jpg": "/oxota_na_ovets/static/media/collage.90676870.jpg",
-    "static/media/iconfinder_arrow-circle-up_1608521.svg": "/oxota_na_ovets/static/media/iconfinder_arrow-circle-up_1608521.0d260e0d.svg"
+    "static/media/iconfinder-icon.svg": "/oxota_na_ovets/static/media/iconfinder-icon.74991e5f.svg",
+    "static/media/iconfinder_arrow-circle-up_1608521.svg": "/oxota_na_ovets/static/media/iconfinder_arrow-circle-up_1608521.0d260e0d.svg",
+    "static/media/iconfinder_icon-ios7-arrow-forward_211688.svg": "/oxota_na_ovets/static/media/iconfinder_icon-ios7-arrow-forward_211688.15143b76.svg",
+    "static/media/oxota_gallery_item1.jpg": "/oxota_na_ovets/static/media/oxota_gallery_item1.8c1d18c1.jpg",
+    "static/media/oxota_gallery_item2.jpg": "/oxota_na_ovets/static/media/oxota_gallery_item2.f719a25f.jpg",
+    "static/media/oxota_gallery_item3.jpg": "/oxota_na_ovets/static/media/oxota_gallery_item3.62080f6b.jpg",
+    "static/media/oxota_gallery_item4.jpg": "/oxota_na_ovets/static/media/oxota_gallery_item4.93d502b6.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0d89ca5a.js",
-    "static/js/2.ba99eb43.chunk.js",
-    "static/css/main.e5c2b017.chunk.css",
-    "static/js/main.03ca4a42.chunk.js"
+    "static/js/2.a96fc0a2.chunk.js",
+    "static/css/main.c1669975.chunk.css",
+    "static/js/main.025bdd35.chunk.js"
   ]
 }
