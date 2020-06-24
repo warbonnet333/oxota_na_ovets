@@ -1,8 +1,9 @@
 @import "../../../../style.const.scss";
 
 .container {
-  border-bottom: 3px solid #e5e5e5;
+  // border-bottom: 3px solid #e5e5e5;
   border-top: 3px solid #e5e5e5;
+  padding-bottom: 30px;
 
   .title {
     font-weight: normal;

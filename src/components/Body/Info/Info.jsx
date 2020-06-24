@@ -16,7 +16,7 @@ class Info extends Component {
           <div className={style.info_det_part}>
             <p>М. Київ, вул. Воздвиженська 10 Б</p>
             <div className={style.map_link}>
-              <a href="#header">На мапі</a>
+              <a target="_blank" rel="noopener noreferrer" href="https://www.google.com.ua/maps/place/Oxota+Na+Ovets/@50.4612327,30.5068398,17z/data=!3m1!4b1!4m5!3m4!1s0x40d4ce69a3104cbb:0x12510ff0aeff81eb!8m2!3d50.4612293!4d30.5090285?hl=ru">На мапі</a>
             </div>
           </div>
           <div className={style.info_det_part}>
