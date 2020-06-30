@@ -3,7 +3,7 @@ import style from "./Footer.module.scss";
 import logo from "../../images/logo.png";
 
 const Footer = () => (
-  <footer className={style.footer}>
+  <footer className={style.footer} id="footer">
     <a href="https://borysov.com.ua/uk">
       <img className={style.footer_logo_img} src={logo} alt="logo" />
     </a>

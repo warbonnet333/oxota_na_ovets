@@ -1,0 +1,41 @@
+@import "../../style.const.scss";
+
+.sideBar {
+  height: 100vh;
+  width: 100vw;
+  z-index: 9999;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  padding: 20px 0;
+
+  &_list {
+    margin-top: 30px;
+    list-style: none;
+    &_item {
+      height: 40px;
+      a {
+        font-size: 17px;
+        color: #0d050b;
+        text-decoration: none;
+        text-transform: uppercase;
+      }
+    }
+
+    &_item:first-of-type {
+      position: relative;
+    }
+
+    &_item:hover a {
+      color: $green-color;
+    }
+  }
+
+  &_closeImg {
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 15px;
+    right: 20px;
+  }
+}

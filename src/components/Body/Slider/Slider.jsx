@@ -40,7 +40,7 @@ class Slider extends Component {
   render() {
     const { slidesArr, slideIndex } = this.state
     return (
-      <div className={style.container}>
+      <div className={style.container} id="slider">
         <div className={style.slider}>
           <div className={style.slider_item}>
             <img src={slidesArr[slideIndex]} alt="slide1" />

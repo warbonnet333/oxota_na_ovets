@@ -12,7 +12,7 @@ class Info extends Component {
         </div>
         <div className={style.title}>АЗІАТСЬКИЙ СТЕЙК-ХАУС</div>
         <MainPhoto />
-        <div className={style.info_det}>
+        <div className={style.info_det} >
           <div className={style.info_det_part}>
             <p>М. Київ, вул. Воздвиженська 10 Б</p>
             <div className={style.map_link}>
