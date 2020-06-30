@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf5f389094874ee6e9bfa26d38efdfa7",
+    "revision": "54a89ed77605574c40af14561629a0ea",
     "url": "/oxota_na_ovets/index.html"
   },
   {
-    "revision": "7bbf53e5c0f05a331c36",
-    "url": "/oxota_na_ovets/static/css/main.3b5f05df.chunk.css"
+    "revision": "1fdfca1970a8d449d723",
+    "url": "/oxota_na_ovets/static/css/main.1c305b94.chunk.css"
   },
   {
-    "revision": "b958dd5e520aec445342",
-    "url": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js"
+    "revision": "004e4477dafe8ed7d606",
+    "url": "/oxota_na_ovets/static/js/2.88dfc39a.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/oxota_na_ovets/static/js/2.a96fc0a2.chunk.js.LICENSE.txt"
+    "url": "/oxota_na_ovets/static/js/2.88dfc39a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bbf53e5c0f05a331c36",
-    "url": "/oxota_na_ovets/static/js/main.025bdd35.chunk.js"
+    "revision": "1fdfca1970a8d449d723",
+    "url": "/oxota_na_ovets/static/js/main.0ef1d540.chunk.js"
   },
   {
     "revision": "fad6983df4614e531533",
